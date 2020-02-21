@@ -2,6 +2,7 @@
 
 # Working versions on word press site 
 * https://mfales.com/all-skills/web-design/word-press/wordpress-plugin/
+* Git hub repo https://github.com/MattFales/distance_calc_demo_wordpress_plugin.git
 
 # Goal
 * Stand alone plugin for wrodpress should work with all version
