@@ -12,7 +12,12 @@
 # First Way to Install Short code [distance-calc-demo]
 * Browse OS and add the distance-calc-demo.zip file and hit install
 * Click ACTIVATE 
+* put short code on page and update
+* if you get Updating failed. Error message: The response is not a valid JSON response. ignore it
+* it will still work with out any side effects 
 * if white screen uninstall it and try 2rd way
+
+
 
 
 # 2rd WAY to Install PLEASE Follow these steps Short code [distance-calc-demo]
