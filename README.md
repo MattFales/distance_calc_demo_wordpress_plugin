@@ -15,6 +15,17 @@
 ## Then click Activate from there
 * Short code [distance-calc-demo]
 
+# OTHER Way Install PLEASE Follow these steps
+* Unzip to any location 
+* open word press file system
+* go to public_html
+* go to wp-content
+* go to plugins
+* copy that folder to this location
+* go to  Installed Plugins 
+* Then activate it
+
+
 # Process 
 * Grab user location through ip https://www.geoplugin.com/webservices/php good class to use
 * Set up the calculations 
@@ -38,8 +49,6 @@
 * VPN to change location
 * Validation on distance  http://www.meridianoutpost.com/resources/etools/calculators/calculator-latitude-longitude-distance.php?
 * There is always a chance it not exact location base on IP.  This is due to where the server is located.  
-
-
 
 
 
