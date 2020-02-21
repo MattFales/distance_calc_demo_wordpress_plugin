@@ -15,7 +15,7 @@
 
 # Process 
 * Grab user location through ip https://www.geoplugin.com/webservices/php good class to use
-* Set up The calculations 
+* Set up the calculations 
 * Great-circle distance between two points https://stackoverflow.com/questions/10053358/measuring-the-distance-between-two-coordinates-in-php 
 * NOTE: using API that may cost, may not work in the future due to changes, and adding extra step not needed.
 * This code will work no matter what and will always give back the same results 
@@ -26,13 +26,11 @@
 * The map
 * This is built with free API called openlayers https://openlayers.org/
 * Shows you the line between to the locations 
-* NOTE: this is Javascript base meaning the variables are taken from php from the first part of the code
-
+* NOTE: this is Javascript based, meaning the variables are taken from php from the first part of the code
 
 # Code Notes
 * For short code add_shortcode('distance-calc-demo', 'distance_calc_demo'); 
 * Fixed locations points Fixed location https://www.latlong.net/place/the-white-house-washington-dc-usa-20381.html
-
 
 # Testing 
 * VPN to change location
