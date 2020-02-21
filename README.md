@@ -8,7 +8,14 @@
 * Stand alone plugin for wrodpress should work with all version
 * Take user and calculate the distance from one point to the whitehouse
 
-# Install PLEASE Follow these steps
+
+# First Way to Install
+* Browse OS and add the distance-calc-demo.zip file and hit install
+* Click ACTIVATE 
+* if white screen uninstall it and try 2rd way
+
+
+# 2rd WAY to Install PLEASE Follow these steps
 * Browse OS and add the distance-calc-demo.zip file and hit install
 ## DO NOT CLICK ACTIVATE  click  Return to Plugin Installer   
 ## Then go to Installed Plugins 
@@ -24,6 +31,20 @@
 * copy that folder to this location
 * go to  Installed Plugins 
 * Then activate it
+
+
+# how to unistall if you have problems
+* open word press file system
+* go to public_html
+* go to wp-content
+* go to plugins
+* look for distance-calc-demo
+* delete that folder
+
+
+
+
+
 
 
 # Process 
