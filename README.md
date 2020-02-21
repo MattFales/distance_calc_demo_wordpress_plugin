@@ -9,20 +9,20 @@
 * Take user and calculate the distance from one point to the whitehouse
 
 
-# First Way to Install
+# First Way to Install Short code [distance-calc-demo]
 * Browse OS and add the distance-calc-demo.zip file and hit install
 * Click ACTIVATE 
 * if white screen uninstall it and try 2rd way
 
 
-# 2rd WAY to Install PLEASE Follow these steps
+# 2rd WAY to Install PLEASE Follow these steps Short code [distance-calc-demo]
 * Browse OS and add the distance-calc-demo.zip file and hit install
 ## DO NOT CLICK ACTIVATE  click  Return to Plugin Installer   
 ## Then go to Installed Plugins 
 ## Then click Activate from there
-* Short code [distance-calc-demo]
 
-# OTHER Way Install PLEASE Follow these steps
+
+# OTHER Way Install PLEASE Follow these steps Short code [distance-calc-demo]
 * Unzip to any location 
 * open word press file system
 * go to public_html
