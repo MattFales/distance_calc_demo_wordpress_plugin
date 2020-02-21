@@ -9,8 +9,10 @@
 * Take user and calculate the distance from one point to the whitehouse
 
 # Install
-* Browse OS and add the distance-calc-demo.zip file
-* Then go to plugin and activate the plugin distance-calc-demo
+* Browse OS and add the distance-calc-demo.zip file and hit install
+## DO NOT CLICK ACTIVATE  click  Return to Plugin Installer   
+## Then go to Installed Plugins 
+## Then click Activate from there
 * Short code [distance-calc-demo]
 
 # Process 
